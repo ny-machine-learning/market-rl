@@ -10,5 +10,8 @@ conda activate rl
 jupyter lab
 ```
 
+## Q-Learning Introduction
+https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c
+
 ## Advanced
-Look at this page: https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
+https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
