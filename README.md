@@ -34,4 +34,5 @@ Open notebook: `deep-reinforcement-learning.ipynb`
 https://slm-lab.gitbook.io/slm-lab/setup/installation
 
 https://wiki.pathmind.com/deep-reinforcement-learning
+
 https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
