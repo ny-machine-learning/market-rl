@@ -23,8 +23,9 @@ Open notebooks:
 
 ## Advanced - Deep Reinforcement Learning
 ```
-conda install -c conda-forge tensorflow # or tensorflow-gpu
 conda install -c conda-forge gym
+pip install tensorflow # or tensorflow-gpu
+pip install keras-rl
 jupyter lab
 ```
 
