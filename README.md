@@ -24,17 +24,14 @@ Open notebooks:
 ## Advanced - Deep Reinforcement Learning
 ```
 conda install -c conda-forge tensorflow # or tensorflow-gpu
-
-cd ..
-git clone https://github.com/matthiasplappert/keras-rl.git
-cd keras-rl
-python setup.py install
-
-cd ../market-rl
 conda install -c conda-forge gym
 jupyter lab
 ```
 
+Sample exercise: https://blog.dominodatalab.com/deep-reinforcement-learning/
 Open notebook: `deep-reinforcement-learning.ipynb`
 
+https://slm-lab.gitbook.io/slm-lab/setup/installation
+
+https://wiki.pathmind.com/deep-reinforcement-learning
 https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
